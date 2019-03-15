@@ -28,7 +28,7 @@ namespace LexisSFTP
 
         }
 
-        public void setRemoteFileName(string remotefile)
+        public void setRemoteFileName(string remotefile) 
         {
             ftpRemoteFile = remotefile;
         }
